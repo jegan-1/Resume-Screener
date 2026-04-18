@@ -1,6 +1,5 @@
 streamlit
 pandas
 plotly
-PyPDF2
-spacy==3.7.2
-en-core-web-sm==3.7.1
+pypdf2
+spacy==3.5.0
