@@ -1,0 +1,6 @@
+venv/
+_pycache_/
+*.db
+resumes/
+.ipynb_checkpoints/
+test_*.py
